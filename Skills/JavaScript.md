@@ -13,26 +13,26 @@
   - ...rest: 🖐️ used
   - typeof: 🖐️ used
   - destructuring
-  - generator: 👂 heard
-  - iterator: 👂 heard
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
   - async generator
   - async iterator
-  - chaining:👂 heard
+  - chaining: 🖐️ used
   - optional chaining
   - IIFE
   - global: 👂 heard
   - globalThis
   - window
   - getters and setters: 🖐️ used
-  - __proto__:👂 heard
-  - prototype:👂 heard
+  - __proto__: 👂 heard
+  - prototype: 👂 heard
   - equality operators: 🎓 known
   - logical operators: 🎓 known
   - bitwise operators: 🎓 known
   - ternary operator: 🎓 known
   - void
   - yield
-  - await: 👂 heard
+  - await: 🖐️ used
   - template literal
   - strict mode: 🖐️ used
   - delete
@@ -75,12 +75,12 @@
   - undefined: 🖐️ used 
   - null: 🖐️ used 
   - Proxy: 👂 heard
-  - weak collections: 👂 heard
-  - timers: 👂 heard
-  - EventEmitter:👂 heard
+  - weak collections: 🖐️ used
+  - timers: 🖐️ used
+  - EventEmitter: 🖐️ used
   - RegExp: 👂 heard
   - Date: 🖐️ used
-  - BigInt:👂 heard
+  - BigInt: 👂 heard
 - Infrastructure
   - V8:👂 heard
   - Node.js: 🎓 known
