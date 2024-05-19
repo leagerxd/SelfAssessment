@@ -82,7 +82,7 @@
   - Date: 🖐️ used
   - BigInt: 👂 heard
 - Infrastructure
-  - V8:👂 heard
+  - V8: 👂 heard
   - Node.js: 🎓 known
   - npm: 🎓 known
   - prettier: 🎓 known
